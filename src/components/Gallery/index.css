@@ -1,0 +1,15 @@
+.display-wallpaper-container {
+}
+.display-wallpaper {
+}
+.thumbnail-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.not-opaque {
+  opacity: 0.5;
+}
+.opaque {
+  opacity: 1;
+}
